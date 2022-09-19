@@ -1,0 +1,22 @@
+{
+  "name": "xlstotxtparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peacelovecookies/xlsToTxtParser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peacelovecookies/xlsToTxtParser/issues"
+  },
+  "homepage": "https://github.com/peacelovecookies/xlsToTxtParser#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
